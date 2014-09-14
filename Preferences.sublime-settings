@@ -1,0 +1,21 @@
+{
+	"bold_folder_labels": true,
+	"default_font_size": 12,
+	"detect_slow_plugins": false,
+	"draw_white_space": "selection",
+	"font_size": 12.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
+	"scroll_past_end": true,
+	"tab_size": 4,
+	"theme": "solarflare.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"color_scheme": "Packages/coulour_themes/solarflare.tmTheme",
+	"vintage_start_in_command_mode": true
+}
